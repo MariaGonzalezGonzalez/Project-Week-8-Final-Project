@@ -38,9 +38,12 @@ The dataset contain the following features
 - mean_perimeter: mean size of the core tumor
 - mean_area: mean area of the core tumor
 - mean_smoothness: mean of local variation in radius lengths
+
+Prepare the dataset in order to find the best alogarithm. For this is needed to clean the null data and to check if there is any correlation, whether causal or not, between two variables. Then is been tried differents Machine Learning and Deep Learning models in order to obtain the hightest accurate 
+
 <a name="schedule"></a>
 
-## Schedule
+## Image Visualization
 *Wednesday*
 * Choose your topic and to work as a team or individually.
 
