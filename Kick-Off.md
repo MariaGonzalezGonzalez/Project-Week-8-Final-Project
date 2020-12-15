@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Breast Cancer Detector¡
+# Breast Cancer Detector
 
 ## Content
 - [Project Description](#project-description)
@@ -14,16 +14,13 @@
 <a name="project-description"></a>
 
 ## Project Description
-In this project, you will pick a topic of your choosing and perform an end-to-end analysis using what you have learned. You will apply the statistical or machine learning techniques we have learned over the last few weeks and present your results to all of us as well as to the jury for the HackShow.
+Breast cancer is the most common cancer in women worldwide and the second most common cancer overall. It is a leading cause of cancer death in less developed countries and the second leading cause of cancer death in American women, exceeded only by lung cancer. There were over 2 million new cases in 2018 and the national incidence rate is around 138 cases per 100,000 inhabitants. As well, that the lifetime risk of developing breast cancer is estimated to be approximately 1 in 8 women. 
 
 <a name="project-goals"></a>
 
 ## Project Goals
-* Ask interesting and thoughful questions and find the data to answer them.
-* Focus on improving in areas and/or tools that are hard for you or learning more about something with which you feel comfortable. You can also learn to use new tools related to data analysis, visualization, etc.
-* Apply the statistical and/or machine learning techniques we have learned.
-* Create useful and clear graphs.
-* Present your insights in a thoughtful, clear and accurate way.
+Diagnosis of breast cancer is performed when an abnormal lump is found (from self-examination or x-ray) or a tiny speck of calcium is seen (on an x-ray). After a suspicious lump is found, the doctor will conduct a diagnosis to determine whether it is cancerous and, if so, whether it has spread to other parts of the body.
+
 
 <a name="requirements"></a>
 
