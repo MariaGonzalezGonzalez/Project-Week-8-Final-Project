@@ -31,13 +31,13 @@ Diagnosis of breast cancer is performed when an abnormal lump is found (from sel
 
 <a name="deliverables"></a>
 
-## Deliverables
-* A well-commented notebook with your analysis (Jupyter or Zeppelin).
-* A 5 minute presentation in the auditorium (+2 minutes of questions)
-* A 5 minute presentation for the jury (+5 minutes of questions)
-* Repository with your workflow + documentation + code. Even if you are working alone, you need to keep good practices!
-* The dataset where you have kept your data (if possible), as well as a description of it.
-
+## DataSet
+The dataset contain the following features
+- mean_radius: mean of distances from center to points on the perimeter
+- mean_texture: standard deviation of gray-scale values
+- mean_perimeter: mean size of the core tumor
+- mean_area: mean area of the core tumor
+- mean_smoothness: mean of local variation in radius lengths
 <a name="schedule"></a>
 
 ## Schedule
