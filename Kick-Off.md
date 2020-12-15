@@ -16,6 +16,8 @@
 ## Project Description
 Breast cancer is the most common cancer in women worldwide and the second most common cancer overall. It is a leading cause of cancer death in less developed countries and the second leading cause of cancer death in American women, exceeded only by lung cancer. There were over 2 million new cases in 2018 and the national incidence rate is around 138 cases per 100,000 inhabitants. As well, that the lifetime risk of developing breast cancer is estimated to be approximately 1 in 8 women. 
 
+This type of cancer is typically detected either during screening, before symptoms have developed, or after a woman notices a lump. Most masses seen on a mammogram and most breast lumps turn out to be benign (not cancerous). When cancer is suspected, tissue for microscopic analysis is usually obtained from a needle biopsy (fine-needle or larger core-needle) and less often from a surgical biopsy. Selection of the type of biopsy is based on multiple factors, including the size and location of the mass, as well as patient factors and preferences and resources.
+
 <a name="project-goals"></a>
 
 ## Project Goals
@@ -24,13 +26,8 @@ Diagnosis of breast cancer is performed when an abnormal lump is found (from sel
 
 <a name="requirements"></a>
 
-## Requirements
-* You must plan your project. That is why creating a Kanban or Trello Board is mandatory.
-* You **CAN'T CODE** until you project is planned.
-* Create a *.gitignore* file and include it in your repository. 
-* You may be on team (3 people max) or work on your own.
-* You can include ML or statistics, but it is not required to do so, as long as you have a rigorous analysis.
-* You may use the data from your last project or from past projects.
+## Workflow
+
 
 <a name="deliverables"></a>
 
