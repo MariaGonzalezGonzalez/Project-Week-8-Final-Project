@@ -45,7 +45,7 @@ It is crucial to prepare the dataset in order to find the best alogarithm. For t
 <a name="deliverables"></a>
 
 ## Image Recognition
-as the images obtained from the biopsy are divided into train and test and 0 and 1 (benign or malignant) then they are ready to fit into the deep learning model.
+As the images obtained from the biopsy are divided into train and test and 0 and 1 (benign or malignant) then they are ready to fit into the deep learning model.
 
 
 <a name="schedule"></a>
