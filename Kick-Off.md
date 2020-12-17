@@ -6,10 +6,8 @@
 - [Project Description](#project-description)
 - [Project Goals](#project-goals)
 - [Dataset](#dataset)
-- [Deliverables](#deliverables)
-- [Schedule](#schedule)
-- [Presentation](#presentation)
-- [Tips & Tricks](#tips-&-tricks)
+- [Image Recognition](#Image-Recognition)
+- [Links](#links)
 
 <a name="project-description"></a>
 
@@ -47,52 +45,16 @@ It is crucial to prepare the dataset in order to find the best alogarithm. For t
 <a name="deliverables"></a>
 
 ## Image Recognition
-as the images obtained from the biopsy  
+as the images obtained from the biopsy are divided into train and test and 0 and 1 (benign or malignant) then they are ready to fit into the deep learning model.
 
 
 <a name="schedule"></a>
 
-## Image Recognition 
 
+## Links
 
-
-**NO CODE UNTIL HERE**
-
-*Monday*
-* Data analysis/ model training.
-
-*Tuesday*
-* Analysis validation/ model fine-tunning.
-
-*Wednesday - Thursday*
-* Preparation of presentation/paper.
-
-*Thursday evening*
-* Group rehersal!
-
-*Friday morning*
-* Jury presentation: they will select their two prefered projects.
-
-*Friday evening. HACKSHOW!*
-* Presentations at 18:00.
-* Vote for the winner of the HackShow.
-
-<a name="presentation"></a>
-
-## Presentation
-* 5 minute presentation for the jury (+5 minutes of questions)
-* 5 minute presentation in Hackshow (+2 minutes of questions)
+[Repository](https://github.com/MariaGonzalezGonzalez/Project-Week-8-Final-Project)  
+[Slides]( https://drive.google.com/file/d/13a8SHLclN5_5hQ376DIAHQ1K_sYFNXiV/view?usp=sharing)  
 
 <a name="tips-&-tricks"></a>
 
-## Tips & Tricks
-* Organize yourself (don't get lost!). Respect deadlines.
-* Ask for help vs Google is your friend.
-* Define a simple approach first. You never know how the data can betray you 😉.
-* Document yourself. Learn about the problem and what research has been done before you.
-* Before making a graph, think what you want to represent.
-* Don't force yourself to use tecniques if they are not helpful for your objective.
-* If using machine learning, remember:
-  * This is an iterative process. Try your best to improve your model performance by:
-    * Try different models and select one that is the simplest yet produce the best result.
-    * Try different hyperparameters and see if they improve the result.
